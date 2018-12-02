@@ -1,0 +1,1 @@
+bot2: python "bot2.py"
